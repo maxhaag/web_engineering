@@ -16,14 +16,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/actionmailer-4.2.6/lib" />
       </SOURCES>
     </library>
-    <library name="actionmailer (v4.2.6, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/actionmailer-4.2.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/actionmailer-4.2.6/lib" />
-      </SOURCES>
-    </library>
     <library name="actionpack (v4.2.5.1, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5.1/lib" />
@@ -38,14 +30,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/actionpack-4.2.6/lib" />
-      </SOURCES>
-    </library>
-    <library name="actionpack (v4.2.6, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/actionpack-4.2.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/actionpack-4.2.6/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v4.2.5.1, ruby-2.2.4-p230 (1)) [gem]">
@@ -64,14 +48,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/actionview-4.2.6/lib" />
       </SOURCES>
     </library>
-    <library name="actionview (v4.2.6, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/actionview-4.2.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/actionview-4.2.6/lib" />
-      </SOURCES>
-    </library>
     <library name="activejob (v4.2.5.1, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/activejob-4.2.5.1/lib" />
@@ -86,14 +62,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/activejob-4.2.6/lib" />
-      </SOURCES>
-    </library>
-    <library name="activejob (v4.2.6, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/activejob-4.2.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/activejob-4.2.6/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v4.2.5.1, ruby-2.2.4-p230 (1)) [gem]">
@@ -112,14 +80,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/activemodel-4.2.6/lib" />
       </SOURCES>
     </library>
-    <library name="activemodel (v4.2.6, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/activemodel-4.2.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/activemodel-4.2.6/lib" />
-      </SOURCES>
-    </library>
     <library name="activerecord (v4.2.5.1, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/activerecord-4.2.5.1/lib" />
@@ -134,14 +94,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/activerecord-4.2.6/lib" />
-      </SOURCES>
-    </library>
-    <library name="activerecord (v4.2.6, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/activerecord-4.2.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/activerecord-4.2.6/lib" />
       </SOURCES>
     </library>
     <library name="activerecord-sqlserver-adapter (v4.2.6, ruby-2.2.4-p230 (1)) [gem]">
@@ -168,28 +120,12 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/activesupport-4.2.6/lib" />
       </SOURCES>
     </library>
-    <library name="activesupport (v4.2.6, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/activesupport-4.2.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/activesupport-4.2.6/lib" />
-      </SOURCES>
-    </library>
     <library name="arel (v6.0.3, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/arel-6.0.3/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/arel-6.0.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="arel (v6.0.3, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/arel-6.0.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/arel-6.0.3/lib" />
       </SOURCES>
     </library>
     <library name="binding_of_caller (v0.7.2, ruby-2.2.4-p230 (1)) [gem]">
@@ -214,16 +150,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/builder-3.2.2/rakelib" />
       </SOURCES>
     </library>
-    <library name="builder (v3.2.2, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/builder-3.2.2/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/builder-3.2.2/rakelib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/builder-3.2.2/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/builder-3.2.2/rakelib" />
-      </SOURCES>
-    </library>
     <library name="bundler (v1.11.2, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/bundler-1.11.2/bin" />
@@ -236,20 +162,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/bundler-1.11.2/exe" />
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/bundler-1.11.2/lib" />
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/bundler-1.11.2/man" />
-      </SOURCES>
-    </library>
-    <library name="bundler (v1.11.2, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/bundler-1.11.2/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/bundler-1.11.2/exe" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/bundler-1.11.2/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/bundler-1.11.2/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/bundler-1.11.2/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/bundler-1.11.2/exe" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/bundler-1.11.2/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/bundler-1.11.2/man" />
       </SOURCES>
     </library>
     <library name="byebug (v8.2.5, ruby-2.2.4-p230 (1)) [gem]">
@@ -290,14 +202,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/coffee-script-source-1.10.0/lib" />
       </SOURCES>
     </library>
-    <library name="coffee-script-source (v1.10.0, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/coffee-script-source-1.10.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/coffee-script-source-1.10.0/lib" />
-      </SOURCES>
-    </library>
     <library name="concurrent-ruby (v1.0.0, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/concurrent-ruby-1.0.0/lib" />
@@ -314,20 +218,12 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/concurrent-ruby-1.0.1/lib" />
       </SOURCES>
     </library>
-    <library name="concurrent-ruby (v1.0.1, ruby-2.2.4-p230) [gem]">
+    <library name="concurrent-ruby (v1.0.2, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/concurrent-ruby-1.0.1/lib" />
+        <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/concurrent-ruby-1.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/concurrent-ruby-1.0.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="concurrent-ruby (v1.0.2, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/concurrent-ruby-1.0.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/concurrent-ruby-1.0.2/lib" />
+        <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/concurrent-ruby-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, ruby-2.2.4-p230 (1)) [gem]">
@@ -358,36 +254,12 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/benchmark" />
       </SOURCES>
     </library>
-    <library name="erubis (v2.7.0, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/contrib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/doc-api" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/benchmark" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/contrib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/doc-api" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/benchmark" />
-      </SOURCES>
-    </library>
     <library name="execjs (v2.6.0, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/execjs-2.6.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/execjs-2.6.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="execjs (v2.6.0, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/execjs-2.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/execjs-2.6.0/lib" />
       </SOURCES>
     </library>
     <library name="globalid (v0.3.6, ruby-2.2.4-p230 (1)) [gem]">
@@ -398,14 +270,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/globalid-0.3.6/lib" />
       </SOURCES>
     </library>
-    <library name="globalid (v0.3.6, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/globalid-0.3.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/globalid-0.3.6/lib" />
-      </SOURCES>
-    </library>
     <library name="i18n (v0.7.0, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/lib" />
@@ -414,16 +278,6 @@
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/lib" />
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/gemfiles" />
-      </SOURCES>
-    </library>
-    <library name="i18n (v0.7.0, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/i18n-0.7.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="io-console (v0.4.3, ruby-2.2.4-p230 (1)) [gem]">
@@ -768,16 +622,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/loofah-2.0.3/benchmark" />
       </SOURCES>
     </library>
-    <library name="loofah (v2.0.3, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/loofah-2.0.3/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/loofah-2.0.3/benchmark" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/loofah-2.0.3/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/loofah-2.0.3/benchmark" />
-      </SOURCES>
-    </library>
     <library name="mail (v2.6.3, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/mail-2.6.3/lib" />
@@ -792,14 +636,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/mail-2.6.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="mail (v2.6.4, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/mail-2.6.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/mail-2.6.4/lib" />
       </SOURCES>
     </library>
     <library name="mime-types (v2.99, ruby-2.2.4-p230 (1)) [gem]">
@@ -824,16 +660,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/mime-types-3.0/support" />
       </SOURCES>
     </library>
-    <library name="mime-types (v3.0, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/mime-types-3.0/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/mime-types-3.0/support" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/mime-types-3.0/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/mime-types-3.0/support" />
-      </SOURCES>
-    </library>
     <library name="mime-types-data (v3.2016.0221, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0221/lib" />
@@ -842,16 +668,6 @@
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0221/lib" />
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0221/data" />
-      </SOURCES>
-    </library>
-    <library name="mime-types-data (v3.2016.0221, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0221/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0221/data" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0221/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0221/data" />
       </SOURCES>
     </library>
     <library name="mini_portile (v0.6.2, ruby-2.2.4-p230 (1)) [gem]">
@@ -870,28 +686,12 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/mini_portile2-2.0.0/lib" />
       </SOURCES>
     </library>
-    <library name="mini_portile2 (v2.0.0, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/mini_portile2-2.0.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/mini_portile2-2.0.0/lib" />
-      </SOURCES>
-    </library>
     <library name="minitest (v5.4.3, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/minitest-5.4.3/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/minitest-5.4.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="minitest (v5.4.3, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/minitest-5.4.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/minitest-5.4.3/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.8.4, ruby-2.2.4-p230 (1)) [gem]">
@@ -902,14 +702,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/minitest-5.8.4/lib" />
       </SOURCES>
     </library>
-    <library name="minitest (v5.8.4, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/minitest-5.8.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/minitest-5.8.4/lib" />
-      </SOURCES>
-    </library>
     <library name="multi_json (v1.11.3, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/multi_json-1.11.3/lib" />
@@ -918,20 +710,12 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/multi_json-1.11.3/lib" />
       </SOURCES>
     </library>
-    <library name="multi_json (v1.11.3, ruby-2.2.4-p230) [gem]">
+    <library name="multi_json (v1.12.0, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/multi_json-1.11.3/lib" />
+        <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/multi_json-1.12.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/multi_json-1.11.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="multi_json (v1.12.0, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/multi_json-1.12.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/multi_json-1.12.0/lib" />
+        <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/multi_json-1.12.0/lib" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.6.7.2, ruby-2.2.4-p230 (1)) [gem]">
@@ -954,26 +738,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x86-mingw32/suppressions" />
       </SOURCES>
     </library>
-    <library name="nokogiri (v1.6.7.2, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.2" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x86-mingw32/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x86-mingw32/ext" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x86-mingw32/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x86-mingw32/tasks" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x86-mingw32/patches" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x86-mingw32/suppressions" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.2" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x86-mingw32/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x86-mingw32/ext" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x86-mingw32/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x86-mingw32/tasks" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x86-mingw32/patches" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x86-mingw32/suppressions" />
-      </SOURCES>
-    </library>
     <library name="pg (v0.18.4, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/pg-0.18.4-x86-mingw32/ext" />
@@ -994,14 +758,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
       </SOURCES>
     </library>
-    <library name="power_assert (v0.2.2, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
-      </SOURCES>
-    </library>
     <library name="rack (v1.6.4, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rack-1.6.4/bin" />
@@ -1016,34 +772,12 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rack-1.6.4/example" />
       </SOURCES>
     </library>
-    <library name="rack (v1.6.4, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rack-1.6.4/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rack-1.6.4/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rack-1.6.4/contrib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rack-1.6.4/example" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rack-1.6.4/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rack-1.6.4/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rack-1.6.4/contrib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rack-1.6.4/example" />
-      </SOURCES>
-    </library>
     <library name="rack-test (v0.6.3, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rack-test-0.6.3/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rack-test-0.6.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="rack-test (v0.6.3, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rack-test-0.6.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rack-test-0.6.3/lib" />
       </SOURCES>
     </library>
     <library name="rails (v4.2.5.1, ruby-2.2.4-p230 (1)) [gem]">
@@ -1062,28 +796,12 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rails-4.2.6/guides" />
       </SOURCES>
     </library>
-    <library name="rails (v4.2.6, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rails-4.2.6/guides" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rails-4.2.6/guides" />
-      </SOURCES>
-    </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="rails-deprecated_sanitizer (v1.0.3, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="rails-dom-testing (v1.0.7, ruby-2.2.4-p230 (1)) [gem]">
@@ -1094,28 +812,12 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rails-dom-testing-1.0.7/lib" />
       </SOURCES>
     </library>
-    <library name="rails-dom-testing (v1.0.7, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rails-dom-testing-1.0.7/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rails-dom-testing-1.0.7/lib" />
-      </SOURCES>
-    </library>
     <library name="rails-html-sanitizer (v1.0.3, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rails-html-sanitizer-1.0.3/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rails-html-sanitizer-1.0.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="rails-html-sanitizer (v1.0.3, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rails-html-sanitizer-1.0.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rails-html-sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="railties (v4.2.5.1, ruby-2.2.4-p230 (1)) [gem]">
@@ -1138,16 +840,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/railties-4.2.6/lib" />
       </SOURCES>
     </library>
-    <library name="railties (v4.2.6, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/railties-4.2.6/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/railties-4.2.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/railties-4.2.6/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/railties-4.2.6/lib" />
-      </SOURCES>
-    </library>
     <library name="rake (v11.1.2, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rake-11.1.2/bin" />
@@ -1158,18 +850,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rake-11.1.2/bin" />
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rake-11.1.2/lib" />
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/rake-11.1.2/rakelib" />
-      </SOURCES>
-    </library>
-    <library name="rake (v11.1.2, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rake-11.1.2/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rake-11.1.2/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rake-11.1.2/rakelib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rake-11.1.2/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rake-11.1.2/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/rake-11.1.2/rakelib" />
       </SOURCES>
     </library>
     <library name="rb-readline (v0.5.3, ruby-2.2.4-p230 (1)) [gem]">
@@ -1234,22 +914,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/sass-3.4.22/vendor" />
       </SOURCES>
     </library>
-    <library name="sass (v3.4.22, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sass-3.4.22/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sass-3.4.22/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sass-3.4.22/extra" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sass-3.4.22/rails" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sass-3.4.22/vendor" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sass-3.4.22/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sass-3.4.22/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sass-3.4.22/extra" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sass-3.4.22/rails" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sass-3.4.22/vendor" />
-      </SOURCES>
-    </library>
     <library name="sass-rails (v5.0.4, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/sass-rails-5.0.4/lib" />
@@ -1288,16 +952,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/sprockets-3.6.0/lib" />
       </SOURCES>
     </library>
-    <library name="sprockets (v3.6.0, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sprockets-3.6.0/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sprockets-3.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sprockets-3.6.0/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sprockets-3.6.0/lib" />
-      </SOURCES>
-    </library>
     <library name="sprockets-rails (v3.0.1, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/sprockets-rails-3.0.1/lib" />
@@ -1314,14 +968,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/sprockets-rails-3.0.4/lib" />
       </SOURCES>
     </library>
-    <library name="sprockets-rails (v3.0.4, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sprockets-rails-3.0.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sprockets-rails-3.0.4/lib" />
-      </SOURCES>
-    </library>
     <library name="sqlite3 (v1.3.11, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/sqlite3/1.3.11" />
@@ -1336,22 +982,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/sqlite3-1.3.11-x86-mingw32/faq" />
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/sqlite3-1.3.11-x86-mingw32/lib" />
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/sqlite3-1.3.11-x86-mingw32/tasks" />
-      </SOURCES>
-    </library>
-    <library name="sqlite3 (v1.3.11, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/sqlite3/1.3.11" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sqlite3-1.3.11-x86-mingw32/ext" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sqlite3-1.3.11-x86-mingw32/faq" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sqlite3-1.3.11-x86-mingw32/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sqlite3-1.3.11-x86-mingw32/tasks" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/sqlite3/1.3.11" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sqlite3-1.3.11-x86-mingw32/ext" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sqlite3-1.3.11-x86-mingw32/faq" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sqlite3-1.3.11-x86-mingw32/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/sqlite3-1.3.11-x86-mingw32/tasks" />
       </SOURCES>
     </library>
     <library name="sqlite3-ruby (v1.3.3, ruby-2.2.4-p230 (1)) [gem]">
@@ -1374,16 +1004,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/sample" />
       </SOURCES>
     </library>
-    <library name="test-unit (v3.0.8, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/sample" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/sample" />
-      </SOURCES>
-    </library>
     <library name="thor (v0.19.1, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/thor-0.19.1/bin" />
@@ -1392,16 +1012,6 @@
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/thor-0.19.1/bin" />
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/thor-0.19.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="thor (v0.19.1, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/thor-0.19.1/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/thor-0.19.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/thor-0.19.1/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/thor-0.19.1/lib" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.5, ruby-2.2.4-p230 (1)) [gem]">
@@ -1418,20 +1028,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/thread_safe-0.3.5/yard-template" />
       </SOURCES>
     </library>
-    <library name="thread_safe (v0.3.5, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/thread_safe-0.3.5/ext" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/thread_safe-0.3.5/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/thread_safe-0.3.5/tasks" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/thread_safe-0.3.5/yard-template" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/thread_safe-0.3.5/ext" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/thread_safe-0.3.5/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/thread_safe-0.3.5/tasks" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/thread_safe-0.3.5/yard-template" />
-      </SOURCES>
-    </library>
     <library name="tilt (v2.0.2, ruby-2.2.4-p230 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/tilt-2.0.2/bin" />
@@ -1442,18 +1038,6 @@
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/tilt-2.0.2/bin" />
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/tilt-2.0.2/lib" />
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/tilt-2.0.2/man" />
-      </SOURCES>
-    </library>
-    <library name="tilt (v2.0.2, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/tilt-2.0.2/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/tilt-2.0.2/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/tilt-2.0.2/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/tilt-2.0.2/bin" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/tilt-2.0.2/lib" />
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/tilt-2.0.2/man" />
       </SOURCES>
     </library>
     <library name="tiny_tds (v0.7.0, ruby-2.2.4-p230 (1)) [gem]">
@@ -1482,14 +1066,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/spiele/programme/Ruby/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/tzinfo-1.2.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="tzinfo (v1.2.2, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/tzinfo-1.2.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/spiele/programme/Ruby/Ruby22/lib/ruby/gems/2.2.0/gems/tzinfo-1.2.2/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo-data (v1.2016.4, ruby-2.2.4-p230 (1)) [gem]">
