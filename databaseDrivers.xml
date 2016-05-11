@@ -48,6 +48,17 @@
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="53083b53-2178-447c-9844-1434949fde5d" name="Rails ProjectBook: development driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
+      <artifact name="Xerial SQLiteJDBC" />
+      <url-template name="default" template="jdbc:sqlite:{file::identifier.sqlite}?" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xerial-sqlite-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlite-jdbc-3.8.11.2.jar</url>
+      </library>
+    </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
       <option name="auto-sync" value="false" />
       <property name="prompt" value="false" />
